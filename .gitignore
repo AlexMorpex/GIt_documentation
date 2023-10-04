@@ -1,1 +1,8 @@
 .vs/
+Git_documentation.sln
+*.vcxproj
+*.filters
+*.user
+Git_documentation/x64/
+desktop.ini
+x64/
